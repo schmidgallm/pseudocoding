@@ -19,3 +19,5 @@ Lastly we know we need to determine winner.
 So take users guess and compare with other player.
 
 And thats it! Taking an entire game and breaking it down into three managable steps with a plan is much easier then keyboard blazing and editing steps as you go.
+
+Great article on pseudocode <a href="https://www.youtube.com/embed/4S5ckWkMnMU">here</a>
